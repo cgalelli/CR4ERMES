@@ -1,0 +1,316 @@
+# Auto-generated macro file
+/control/verbose 0
+/run/verbose 1
+/tracking/verbose 0
+
+# --- Geometry Setup ---
+/testhadr/TargetMat        Quartz
+/testhadr/TargetRadius     10 m
+/testhadr/TargetLength     200 m
+
+# --- Physics ---
+/run/setCut                0.005 mm
+/run/initialize
+
+# --- Run Loop ---
+/gun/particle mu-
+
+/gun/energy 1.0000000000000000 GeV
+/run/beamOn 10000
+
+/gun/energy 1.0974987654930561 GeV
+/run/beamOn 10000
+
+/gun/energy 1.2045035402587823 GeV
+/run/beamOn 10000
+
+/gun/energy 1.3219411484660291 GeV
+/run/beamOn 10000
+
+/gun/energy 1.4508287784959397 GeV
+/run/beamOn 10000
+
+/gun/energy 1.5922827933410924 GeV
+/run/beamOn 10000
+
+/gun/energy 1.7475284000076838 GeV
+/run/beamOn 10000
+
+/gun/energy 1.9179102616724888 GeV
+/run/beamOn 10000
+
+/gun/energy 2.1049041445120205 GeV
+/run/beamOn 10000
+
+/gun/energy 2.3101297000831598 GeV
+/run/beamOn 10000
+
+/gun/energy 2.5353644939701119 GeV
+/run/beamOn 10000
+
+/gun/energy 2.7825594022071249 GeV
+/run/beamOn 10000
+
+/gun/energy 3.0538555088334154 GeV
+/run/beamOn 10000
+
+/gun/energy 3.3516026509388426 GeV
+/run/beamOn 10000
+
+/gun/energy 3.6783797718286344 GeV
+/run/beamOn 10000
+
+/gun/energy 4.0370172585965545 GeV
+/run/beamOn 10000
+
+/gun/energy 4.4306214575838814 GeV
+/run/beamOn 10000
+
+/gun/energy 4.8626015800653546 GeV
+/run/beamOn 10000
+
+/gun/energy 5.3366992312063095 GeV
+/run/beamOn 10000
+
+/gun/energy 5.8570208180566672 GeV
+/run/beamOn 10000
+
+/gun/energy 6.4280731172843222 GeV
+/run/beamOn 10000
+
+/gun/energy 7.0548023107186433 GeV
+/run/beamOn 10000
+
+/gun/energy 7.7426368268112720 GeV
+/run/beamOn 10000
+
+/gun/energy 8.4975343590864441 GeV
+/run/beamOn 10000
+
+/gun/energy 9.3260334688321986 GeV
+/run/beamOn 10000
+
+/gun/energy 10.2353102189902625 GeV
+/run/beamOn 10000
+
+/gun/energy 11.2332403297802763 GeV
+/run/beamOn 10000
+
+/gun/energy 12.3284673944206649 GeV
+/run/beamOn 10000
+
+/gun/energy 13.5304777457980752 GeV
+/run/beamOn 10000
+
+/gun/energy 14.8496826225446501 GeV
+/run/beamOn 10000
+
+/gun/energy 16.2975083462064418 GeV
+/run/beamOn 10000
+
+/gun/energy 17.8864952905743522 GeV
+/run/beamOn 10000
+
+/gun/energy 19.6304065004027137 GeV
+/run/beamOn 10000
+
+/gun/energy 21.5443469003188461 GeV
+/run/beamOn 10000
+
+/gun/energy 23.6448941264540835 GeV
+/run/beamOn 10000
+
+/gun/energy 25.9502421139973727 GeV
+/run/beamOn 10000
+
+/gun/energy 28.4803586843580199 GeV
+/run/beamOn 10000
+
+/gun/energy 31.2571584968823686 GeV
+/run/beamOn 10000
+
+/gun/energy 34.3046928631491923 GeV
+/run/beamOn 10000
+
+/gun/energy 37.6493580679246946 GeV
+/run/beamOn 10000
+
+/gun/energy 41.3201240011533883 GeV
+/run/beamOn 10000
+
+/gun/energy 45.3487850812858468 GeV
+/run/beamOn 10000
+
+/gun/energy 49.7702356433211150 GeV
+/run/beamOn 10000
+
+/gun/energy 54.6227721768434265 GeV
+/run/beamOn 10000
+
+/gun/energy 59.9484250318941179 GeV
+/run/beamOn 10000
+
+/gun/energy 65.7933224657568303 GeV
+/run/beamOn 10000
+
+/gun/energy 72.2080901838546794 GeV
+/run/beamOn 10000
+
+/gun/energy 79.2482898353917733 GeV
+/run/beamOn 10000
+
+/gun/energy 86.9749002617783447 GeV
+/run/beamOn 10000
+
+/gun/energy 95.4548456661834166 GeV
+/run/beamOn 10000
+
+/gun/energy 104.7615752789665180 GeV
+/run/beamOn 10000
+
+/gun/energy 114.9756995397736858 GeV
+/run/beamOn 10000
+
+/gun/energy 126.1856883066021027 GeV
+/run/beamOn 10000
+
+/gun/energy 138.4886371393873219 GeV
+/run/beamOn 10000
+
+/gun/energy 151.9911082952934578 GeV
+/run/beamOn 10000
+
+/gun/energy 166.8100537200059250 GeV
+/run/beamOn 10000
+
+/gun/energy 183.0738280295369691 GeV
+/run/beamOn 10000
+
+/gun/energy 200.9233002565048025 GeV
+/run/beamOn 10000
+
+/gun/energy 220.5130739903045480 GeV
+/run/beamOn 10000
+
+/gun/energy 242.0128264794383313 GeV
+/run/beamOn 10000
+
+/gun/energy 265.6087782946686957 GeV
+/run/beamOn 10000
+
+/gun/energy 291.5053062825178927 GeV
+/run/beamOn 10000
+
+/gun/energy 319.9267137797384635 GeV
+/run/beamOn 10000
+
+/gun/energy 351.1191734215134375 GeV
+/run/beamOn 10000
+
+/gun/energy 385.3528593710531140 GeV
+/run/beamOn 10000
+
+/gun/energy 422.9242874389498752 GeV
+/run/beamOn 10000
+
+/gun/energy 464.1588833612781855 GeV
+/run/beamOn 10000
+
+/gun/energy 509.4138014816380178 GeV
+/run/beamOn 10000
+
+/gun/energy 559.0810182512228721 GeV
+/run/beamOn 10000
+
+/gun/energy 613.5907273413175744 GeV
+/run/beamOn 10000
+
+/gun/energy 673.4150657750827804 GeV
+/run/beamOn 10000
+
+/gun/energy 739.0722033525782990 GeV
+/run/beamOn 10000
+
+/gun/energy 811.1308307896872520 GeV
+/run/beamOn 10000
+
+/gun/energy 890.2150854450392217 GeV
+/run/beamOn 10000
+
+/gun/energy 977.0099572992256753 GeV
+/run/beamOn 10000
+
+/gun/energy 1072.2672220103243035 GeV
+/run/beamOn 10000
+
+/gun/energy 1176.8119524349990570 GeV
+/run/beamOn 10000
+
+/gun/energy 1291.5496650148841127 GeV
+/run/beamOn 10000
+
+/gun/energy 1417.4741629268062297 GeV
+/run/beamOn 10000
+
+/gun/energy 1555.6761439304723353 GeV
+/run/beamOn 10000
+
+/gun/energy 1707.3526474706920908 GeV
+/run/beamOn 10000
+
+/gun/energy 1873.8174228603850224 GeV
+/run/beamOn 10000
+
+/gun/energy 2056.5123083486537325 GeV
+/run/beamOn 10000
+
+/gun/energy 2257.0197196339213406 GeV
+/run/beamOn 10000
+
+/gun/energy 2477.0763559917113525 GeV
+/run/beamOn 10000
+
+/gun/energy 2718.5882427329429447 GeV
+/run/beamOn 10000
+
+/gun/energy 2983.6472402833401247 GeV
+/run/beamOn 10000
+
+/gun/energy 3274.5491628777317601 GeV
+/run/beamOn 10000
+
+/gun/energy 3593.8136638046294138 GeV
+/run/beamOn 10000
+
+/gun/energy 3944.2060594376598601 GeV
+/run/beamOn 10000
+
+/gun/energy 4328.7612810830614762 GeV
+/run/beamOn 10000
+
+/gun/energy 4750.8101621027981309 GeV
+/run/beamOn 10000
+
+/gun/energy 5214.0082879996898555 GeV
+/run/beamOn 10000
+
+/gun/energy 5722.3676593502204923 GeV
+/run/beamOn 10000
+
+/gun/energy 6280.2914418342597855 GeV
+/run/beamOn 10000
+
+/gun/energy 6892.6121043497023493 GeV
+/run/beamOn 10000
+
+/gun/energy 7564.6332755462908608 GeV
+/run/beamOn 10000
+
+/gun/energy 8302.1756813197516749 GeV
+/run/beamOn 10000
+
+/gun/energy 9111.6275611548953748 GeV
+/run/beamOn 10000
+
+/gun/energy 10000.0000000000000000 GeV
+/run/beamOn 10000
