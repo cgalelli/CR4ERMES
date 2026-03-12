@@ -25,28 +25,32 @@ void SteppingAction::UserSteppingAction(const G4Step* aStep)
         }
     }
 
+
     G4StepPoint* preStepPoint = aStep->GetPreStepPoint();
     G4StepPoint* postStepPoint = aStep->GetPostStepPoint();
     G4double zPre = preStepPoint->GetPosition().z();
     G4double zPost = postStepPoint->GetPosition().z();
 
-    for (int i = 0; i < 10; ++i) {
-        G4double targetZ = fLayerResults[i].z;
 
-        if (zPre >= targetZ && zPost < targetZ) {
-            G4ThreeVector posPre = preStepPoint->GetPosition();
-            G4ThreeVector posPost = postStepPoint->GetPosition();
-            G4double fraction = (targetZ - zPre) / (zPost - zPre);
-            
-            fLayerResults[i].hit = true;
-            fLayerResults[i].x = posPre.x() + fraction * (posPost.x() - posPre.x());
-            fLayerResults[i].y = posPre.y() + fraction * (posPost.y() - posPre.y());
-            fLayerResults[i].e = preStepPoint->GetKineticEnergy() + fraction * (postStepPoint->GetKineticEnergy() - preStepPoint->GetKineticEnergy());
+    G4VPhysicalVolume* volume = track->GetVolume();
+    if (volume && volume->GetName() == "Target") {
+        for (int i = 0; i < 10; ++i) {
+            G4double targetZ = fLayerResults[i].z;
+
+            if (zPre >= targetZ && zPost < targetZ) {
+                G4ThreeVector posPre = preStepPoint->GetPosition();
+                G4ThreeVector posPost = postStepPoint->GetPosition();
+                G4double fraction = (targetZ - zPre) / (zPost - zPre);
+                
+                fLayerResults[i].hit = true;
+                fLayerResults[i].x = posPre.x() + fraction * (posPost.x() - posPre.x());
+                fLayerResults[i].y = posPre.y() + fraction * (posPost.y() - posPre.y());
+                fLayerResults[i].e = preStepPoint->GetKineticEnergy() + fraction * (postStepPoint->GetKineticEnergy() - preStepPoint->GetKineticEnergy());
+            }
         }
     }
 
-    if (track->GetTrackStatus() == fStopAndKill || postStepPoint->GetStepStatus() == fWorldBoundary) {
-        
+    if (track->GetTrackStatus() == fStopAndKill || postStepPoint->GetStepStatus() == fWorldBoundary) {    
         std::ofstream* out = fRunAction->GetOutputFile();
         if (out && out->is_open()) {
             for (int i = 0; i < 10; ++i) {
