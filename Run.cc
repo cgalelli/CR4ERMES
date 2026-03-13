@@ -28,11 +28,6 @@ int main(int argc,char** argv) {
   runManager->SetUserAction(new EventAction());
   runManager->SetUserAction(new StackingAction());
   runManager->SetUserAction(new SteppingAction(runAction));
-  
-
-  // 4. Visualization & UI
-//  G4VisManager* visManager = new G4VisExecutive;
-//  visManager->Initialize();
 
   G4UImanager* UImanager = G4UImanager::GetUIpointer();
 

@@ -7,8 +7,9 @@
 #include <vector>
 
 struct LayerRecord {
-    bool hit = false;
-    double x = 0, y = 0, z = 0, e = 0;
+  G4bool hit = false;
+  G4double x=0, y=0, z=0, e=0;
+  G4double px=0, py=0, pz=0;
 };
 
 class RunAction;

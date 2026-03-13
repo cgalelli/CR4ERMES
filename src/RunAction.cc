@@ -16,7 +16,6 @@ RunAction::~RunAction() {
 
 void RunAction::BeginOfRunAction(const G4Run* aRun) {
     G4int id = aRun->GetRunID();
-    G4cout << "### Run " << id << " start." << G4endl;
 
     // Generate a new filename based on Run ID
     std::string fileName = "./output/muon_track_" + std::to_string(id) + ".txt";
@@ -27,8 +26,7 @@ if (!fOutputFile->is_open()) {
         G4cerr << "!!! ERROR: Could not open output file: " << fileName << " !!!" << G4endl;
     } else {
         G4cout << "### Run " << id << " start. Writing to: " << fileName << G4endl;
-        *fOutputFile << "LayerID\tX(mm)\tY(mm)\tZ_Plane(mm)\tKinE(MeV)" << std::endl;
-    }
+        *fOutputFile << "LayerID\tX(mm)\tY(mm)\tZ_Plane(mm)\tKinE(MeV)\tpx(MeV)\tpy(MeV)\tpz(MeV)" << std::endl;    }
 }
 
 void RunAction::EndOfRunAction(const G4Run*) {
