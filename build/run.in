@@ -2,7 +2,7 @@
 /run/verbose 2
 /tracking/verbose 0
 /testhadr/TargetMat        Quartz
-/testhadr/TargetRadius    10 m
+/testhadr/TargetRadius    100 m
 /testhadr/TargetLength     200 m
 /run/setCut                0.005 mm
 
@@ -10,1627 +10,647 @@
 
 /gun/particle mu-
 
-/gun/energy 49.77 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 54.62 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 59.95 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 65.79 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 72.21 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 79.25 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 86.97 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 95.45 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 104.76 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 114.98 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 126.19 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 138.49 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 151.99 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 166.81 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 183.07 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 200.92 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 220.51 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 242.01 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 265.61 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 291.51 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 319.93 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 351.12 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 385.35 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 422.92 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 464.16 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 509.41 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 559.08 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 613.59 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 673.42 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 739.07 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 811.13 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 890.22 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 977.01 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 1072.27 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
-/gun/energy 1176.81 GeV
-/gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
-
-/gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
-
-/gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
-
-/gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
-
-/gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
-
-/gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
-
-/gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
-
-/gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
-
-/gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
-
 /gun/energy 1291.55 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 1417.47 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 1555.68 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 1707.35 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 1873.82 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 2056.51 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 2257.02 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 2477.08 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 2718.59 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 2983.65 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 3274.55 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 3593.81 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 3944.21 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 4328.76 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 4750.81 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 5214.01 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 5722.37 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 6280.29 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 6892.61 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 7564.63 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 8302.18 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 9111.63 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/energy 10000.00 GeV
 /gun/direction 0.0000 0.0000 -1.0000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.1736 0.0000 -0.9848
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.3420 0.0000 -0.9397
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.5000 0.0000 -0.8660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.6428 0.0000 -0.7660
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.7660 0.0000 -0.6428
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.8660 0.0000 -0.5000
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9397 0.0000 -0.3420
-/run/beamOn 1000
+/run/beamOn 10000
 
 /gun/direction 0.9848 0.0000 -0.1736
-/run/beamOn 1000
+/run/beamOn 10000
 
